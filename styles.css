@@ -1,0 +1,63 @@
+#input{
+    border-radius: 50px;
+    width: 390px;
+    height: 57px;
+    padding-left: 15px;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+
+#para{
+    margin-left: 450px;
+    margin-top: 49px;
+}
+
+#select{
+    height: 10px;
+    
+}
+
+
+
+.bi{
+    margin-top: 50px;
+    margin-right: -20px;
+}
+
+.para{
+    text-align: center;
+    font-size: 18px;
+}
+
+#para1{
+text-align: center;
+height: 90px;
+background-color: rgb(161, 155, 155);
+color: white;
+}
+
+.header{
+    position:sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    z-index: 1;
+    
+}
+
+.option{
+    z-index: 0;
+}
+
+.card{
+    margin-bottom: 15px;
+    transition: box-shadow 0.2s;
+}
+
+.card:hover{
+    box-shadow: 5px 5px rgb(95, 93, 93);
+    
+}
+
+
